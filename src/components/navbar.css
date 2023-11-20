@@ -1,0 +1,13 @@
+li a::after {
+    content: '';
+    width: 0;
+    height: 5px;
+    background-color: white;
+    margin: auto;
+    display: block;
+    transition: width 0.3s linear;
+}
+
+li a:hover::after {
+    width: 100%;
+}
