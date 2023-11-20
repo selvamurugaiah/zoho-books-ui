@@ -46,7 +46,7 @@ export const Main = () => {
         <div className="row g-0">
           <div className="col-md-3">
             <img
-              src="../src/assets/image.png"
+              src="https://i.pcmag.com/imagery/reviews/036rJcAK3sZYpCdHStxxy8U-35.1602532747.fit_lim.size_1200x630.png"
               class="img-fluid rounded-start"
               alt="..."
               style={{ width: "200px", marginLeft: "20px", marginTop: "30px" }}
@@ -90,7 +90,7 @@ export const Main = () => {
         <div className="row g-0">
           <div className="col-md-3">
             <img
-              src="../src/assets/image2.png"
+              src="https://uploads-ssl.webflow.com/63a40b5c0bd7062fd386021f/63a4b8b4ed5955b52a15eaf2_easyecom%20logo-2%20(4)-p-2000.png"
               class="img-fluid rounded-start"
               alt="..."
               style={{ width: "250px", marginTop: "30px", marginLeft: "20px" }}
